@@ -1,0 +1,30 @@
+.imageContainer {
+  width: 290px;
+  height: 290px;
+}
+
+.imageOuterContainer {
+  width: 280px;
+  height: 280px;
+  border: 1px solid var(--primary-colour);
+  position: relative;
+}
+
+.imageInnerContainer {
+  position: absolute;
+  left: 5px;
+  top: 5px;
+  width: 280px;
+  height: 280px;
+  border: 1px solid var(--primary-colour);
+  background-color: var(--background-colour);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.imageDisplayImage {
+  height: 265px;
+  width: 265px;
+  background-color: var(--primary-colour);
+}
