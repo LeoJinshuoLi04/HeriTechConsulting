@@ -1,0 +1,103 @@
+.objectPageContainer {
+  padding-top: 10px;
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+
+  .contentFirstRow {
+    margin-top: 30px;
+    margin-left: 70px;
+    display: flex;
+    flex-direction: row;
+    gap: 100px;
+  }
+
+  .imageContainer {
+    width: 290px;
+    height: fit-content;
+  }
+
+  .imageSelection {
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    font-size: 30px;
+    justify-content: space-between;
+  }
+
+  .itemChallengesContainer {
+    flex: 1;
+    font-size: 32px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  .itemChallenges {
+    margin-top: 5px;
+    border-top: 1px solid var(--primary-colour);
+    border-bottom: 1px solid var(--primary-colour);
+    width: 90%;
+    height: 83%;
+  }
+
+  .contentSecondRow {
+    margin-top: 40px;
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 100px;
+    margin-right: 70px;
+    h3 {
+      font-weight: normal;
+      font-size: 32px;
+      margin: 0px;
+    }
+    h1 {
+      font-weight: 400;
+      font-size: 64px;
+      margin: 0px;
+      margin-top: 20px;
+    }
+  }
+
+  .timeContainer {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .costContainer {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .challengeRow {
+    width: 100%;
+    margin: 10px 0px;
+    display: flex;
+    flex-direction: row;
+    .challengeCircleContainer {
+      margin-left: 40px;
+      margin-right: 20px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .challengeText {
+      font-size: 20px;
+    }
+
+    .challengeCircle {
+      width: 10px;
+      height: 10px;
+      border-radius: 100px;
+      border: 1px solid var(--primary-colour);
+    }
+  }
+}

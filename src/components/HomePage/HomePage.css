@@ -24,3 +24,10 @@
 .homePageItemDescription {
   font-size: 16px;
 }
+
+.underlineHover {
+  cursor: pointer;
+  &:hover {
+    text-decoration: underline;
+  }
+}
