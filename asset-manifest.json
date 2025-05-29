@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/HeriTechConsulting/static/css/main.c8a5c923.css",
+    "main.css": "/HeriTechConsulting/static/css/main.ec2c892a.css",
     "main.js": "/HeriTechConsulting/static/js/main.bf7ab4ed.js",
     "static/js/453.a85907c6.chunk.js": "/HeriTechConsulting/static/js/453.a85907c6.chunk.js",
     "static/media/logo.svg": "/HeriTechConsulting/static/media/logo.b4caeb324aff9042bc403a9857c9c880.svg",
     "index.html": "/HeriTechConsulting/index.html",
     "static/media/arrow2.svg": "/HeriTechConsulting/static/media/arrow2.64ffa980d1c3aca599f72e8e1971248d.svg",
     "static/media/arrow.svg": "/HeriTechConsulting/static/media/arrow.d31d2f0fdefbda2946610316823894eb.svg",
-    "main.c8a5c923.css.map": "/HeriTechConsulting/static/css/main.c8a5c923.css.map",
+    "main.ec2c892a.css.map": "/HeriTechConsulting/static/css/main.ec2c892a.css.map",
     "main.bf7ab4ed.js.map": "/HeriTechConsulting/static/js/main.bf7ab4ed.js.map",
     "453.a85907c6.chunk.js.map": "/HeriTechConsulting/static/js/453.a85907c6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c8a5c923.css",
+    "static/css/main.ec2c892a.css",
     "static/js/main.bf7ab4ed.js"
   ]
 }
