@@ -14,7 +14,7 @@ const pages: { [key: string]: string[] } = {
 };
 
 const visionCaptureTechniques: TopicPageProps = {
-  topicName: "Vision Caputure Techniques",
+  topicName: "Vision Capture Techniques",
   topicDescription: "Example Description",
   objects: [
     {

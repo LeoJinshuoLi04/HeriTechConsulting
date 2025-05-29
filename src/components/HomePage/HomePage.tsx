@@ -13,7 +13,7 @@ export default function HomePage({
       <div className="homePageContentContainer">
         <div className="homePageItemColumn">
           <div
-            onClick={() => setCurrentPage("Vision Capture Tehniques")}
+            onClick={() => setCurrentPage("Vision Capture Techniques")}
             className="underlineHover"
           >
             Vision Capture Techniques
