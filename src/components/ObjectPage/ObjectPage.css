@@ -27,7 +27,7 @@
 
   .itemChallengesContainer {
     flex: 1;
-    font-size: 32px;
+    font-size: 36px;
     display: flex;
     align-items: center;
     flex-direction: column;
@@ -48,7 +48,7 @@
     flex-direction: row;
     justify-content: center;
     gap: 100px;
-    margin-right: 70px;
+    margin-right: 40px;
     h3 {
       font-weight: normal;
       font-size: 32px;
@@ -74,6 +74,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    text-align: justify;
   }
 
   .challengeRow {
@@ -90,7 +91,7 @@
     }
 
     .challengeText {
-      font-size: 20px;
+      font-size: 18px;
     }
 
     .challengeCircle {

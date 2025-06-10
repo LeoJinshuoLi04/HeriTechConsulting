@@ -70,7 +70,7 @@ export default function ObjectPage({ item }: { item: ObjectPageProps }) {
         </div>
         <div className="costContainer">
           <h3>Estimated Cost</h3>
-          <h1> $ {item.estimatedCost} Days</h1>
+          <h1> ${item.estimatedCost} </h1>
           <p> {item.costExplanation}</p>
         </div>
       </div>
