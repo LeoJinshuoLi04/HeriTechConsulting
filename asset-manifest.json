@@ -1,18 +1,41 @@
 {
   "files": {
-    "main.css": "/HeriTechConsulting/static/css/main.ec2c892a.css",
-    "main.js": "/HeriTechConsulting/static/js/main.d1208db9.js",
+    "main.css": "/HeriTechConsulting/static/css/main.a0cb2d75.css",
+    "main.js": "/HeriTechConsulting/static/js/main.2744eec5.js",
     "static/js/453.a85907c6.chunk.js": "/HeriTechConsulting/static/js/453.a85907c6.chunk.js",
+    "static/media/vc1.jpg": "/HeriTechConsulting/static/media/vc1.ea2a4955b5e127edcb34.jpg",
+    "static/media/smalldryobj3.jpg": "/HeriTechConsulting/static/media/smalldryobj3.4a17ad6391730da36143.jpg",
+    "static/media/paper 3.jpg": "/HeriTechConsulting/static/media/paper 3.fffbb1c3b8c6ce304589.jpg",
     "static/media/logo.svg": "/HeriTechConsulting/static/media/logo.b4caeb324aff9042bc403a9857c9c880.svg",
+    "static/media/paper 1.jpg": "/HeriTechConsulting/static/media/paper 1.ff27acd5551f6daaa323.jpg",
+    "static/media/Assemblages1.jpg": "/HeriTechConsulting/static/media/Assemblages1.32c54d32874b3ccffd9f.jpg",
+    "static/media/AI.jpg": "/HeriTechConsulting/static/media/AI.09c1b5a36f385cf1d87c.jpg",
+    "static/media/FTS3.png": "/HeriTechConsulting/static/media/FTS3.be2ef4990ebf1c41d59f.png",
+    "static/media/AVO1.jpg": "/HeriTechConsulting/static/media/AVO1.29cc725bc5c8df3e7caa.jpg",
+    "static/media/FTS1.jpg": "/HeriTechConsulting/static/media/FTS1.ff5aaa7914af4e44192e.jpg",
+    "static/media/smalldryobj1.jpg": "/HeriTechConsulting/static/media/smalldryobj1.382a71cbe518dff34432.jpg",
+    "static/media/largeheavydryobj3.jpg": "/HeriTechConsulting/static/media/largeheavydryobj3.5c5a19305f7b7680f0ca.jpg",
+    "static/media/Assemblages2.jpg": "/HeriTechConsulting/static/media/Assemblages2.399b038a1e7d53fd32d6.jpg",
+    "static/media/largeheavydryobj1.jpg": "/HeriTechConsulting/static/media/largeheavydryobj1.5aa18614e308e76eefaa.jpg",
+    "static/media/smalldryobj2.jpg": "/HeriTechConsulting/static/media/smalldryobj2.f5aa104fb4e97d7a2ede.jpg",
+    "static/media/topic3.jpg": "/HeriTechConsulting/static/media/topic3.f84554cc55bafc980802.jpg",
+    "static/media/AVO2.jpg": "/HeriTechConsulting/static/media/AVO2.4e1274e755b8f47f8c19.jpg",
+    "static/media/paper 2.jpg": "/HeriTechConsulting/static/media/paper 2.4206059ca2217aabff86.jpg",
+    "static/media/Assemblages3.jpg": "/HeriTechConsulting/static/media/Assemblages3.d2631706859ebc693250.jpg",
+    "static/media/AVO3.jpg": "/HeriTechConsulting/static/media/AVO3.1bf460d6a19e6b044d72.jpg",
+    "static/media/pinned2.jpg": "/HeriTechConsulting/static/media/pinned2.d53d8037a9ee0b7a6598.jpg",
+    "static/media/pinned1.jpg": "/HeriTechConsulting/static/media/pinned1.cc98a3f5964bd7920629.jpg",
+    "static/media/pinned3.jpg": "/HeriTechConsulting/static/media/pinned3.05bd036f851e171a35fe.jpg",
+    "static/media/largeheavydryobj2.jpeg": "/HeriTechConsulting/static/media/largeheavydryobj2.4ebf7c0d232268f308ef.jpeg",
     "index.html": "/HeriTechConsulting/index.html",
     "static/media/arrow2.svg": "/HeriTechConsulting/static/media/arrow2.64ffa980d1c3aca599f72e8e1971248d.svg",
     "static/media/arrow.svg": "/HeriTechConsulting/static/media/arrow.d31d2f0fdefbda2946610316823894eb.svg",
-    "main.ec2c892a.css.map": "/HeriTechConsulting/static/css/main.ec2c892a.css.map",
-    "main.d1208db9.js.map": "/HeriTechConsulting/static/js/main.d1208db9.js.map",
+    "main.a0cb2d75.css.map": "/HeriTechConsulting/static/css/main.a0cb2d75.css.map",
+    "main.2744eec5.js.map": "/HeriTechConsulting/static/js/main.2744eec5.js.map",
     "453.a85907c6.chunk.js.map": "/HeriTechConsulting/static/js/453.a85907c6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ec2c892a.css",
-    "static/js/main.d1208db9.js"
+    "static/css/main.a0cb2d75.css",
+    "static/js/main.2744eec5.js"
   ]
 }
